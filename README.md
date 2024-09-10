@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghayur99&label=Profile%20views&color=0e75b6&style=flat" alt="ghayur99" /> </p>
 
-- 🌱 I’m currently learning **Playwright**
-
 - 💬 Ask me about **Automation**
 
 - 📫 How to reach me **Ghayurbutt11@gmail.com**
